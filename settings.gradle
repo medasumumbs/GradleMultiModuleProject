@@ -1,0 +1,3 @@
+rootProject.name = 'GradleMultiModuleTest'
+include 'model'
+include 'service'
